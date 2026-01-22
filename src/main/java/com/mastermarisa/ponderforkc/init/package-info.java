@@ -1,0 +1,7 @@
+
+@MethodsReturnNonnullByDefault
+@ParametersAreNonnullByDefault
+package com.mastermarisa.ponderforkc.init;
+
+import net.minecraft.MethodsReturnNonnullByDefault;
+import javax.annotation.ParametersAreNonnullByDefault;
