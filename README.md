@@ -2,7 +2,9 @@
 
 > A addon mod for Kaleidoscope Cookery.
 
-![Minecraft](https://img.shields.io/badge/Minecraft-Java Edition-brightgreen) ![Forge](https://img.shields.io/badge/ Forge | NeoForge  -1.20.1 | 1.21.1-orange) ![License](https://img.shields.io/badge/License-BSD -blue)
+![Minecraft](https://img.shields.io/badge/Minecraft-Java Edition-brightgreen) 
+![Forge](https://img.shields.io/badge/ Forge | NeoForge  -1.20.1 | 1.21.1-orange) 
+![License](https://img.shields.io/badge/License-BSD -blue)
 
 ## Introduction
 
