@@ -1,25 +1,28 @@
+# Ponder For Kaleidoscope Cookery 森罗厨房：思索
 
-Installation information
-=======
+> A addon mod for Kaleidoscope Cookery.
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+![Minecraft](https://img.shields.io/badge/Minecraft-Java Edition-brightgreen) ![Forge](https://img.shields.io/badge/ Forge | NeoForge  -1.20.1 | 1.21.1-orange) ![License](https://img.shields.io/badge/License-BSD -blue)
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+## Introduction
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+This is a mod developed for Minecraft Java Edition. This mod is designed to make it easier for players to get started with Kaleidoscope Cookery.
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+## Features
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+*   Added several Ponder scenes for functional blocks from Kaleidoscope Cookery.
+
+## License agreement
+
+[BSD 3-Clause License](https://github.com/MasterMarisa/PonderForKaleidoscopeCookery/blob/main/LICENSE.txt)
+
+## Feedback and suggestions
+
+If you encounter problems or have suggestions for improvements during use, please contact us through the following methods:
+
+*   🐛 [Issues](https://github.com/MasterMarisa/PonderForKaleidoscopeCookery/issues) - Submit a bug report
+*   💡 [Issues](https://github.com/MasterMarisa/PonderForKaleidoscopeCookery/issues) - Feature suggestions, discussions and exchanges
+
+## Developer
+
+**MasterMarisa**
